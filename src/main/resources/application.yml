@@ -1,0 +1,3 @@
+securebot:
+  ai:
+    provider: gemini

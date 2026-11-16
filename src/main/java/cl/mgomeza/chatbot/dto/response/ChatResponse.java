@@ -1,4 +1,4 @@
 package cl.mgomeza.chatbot.dto.response;
 
-public class ChatResponse {
+public record ChatResponse(String reply) {
 }
